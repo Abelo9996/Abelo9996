@@ -51,10 +51,10 @@ class AbelYagubyan:
 
 | Year | Paper | Venue | Cited by |
 |:---:|---|---|:---:|
-| 2026 | [**The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation**](https://arxiv.org/abs/2606.13685) — sole author | GroundLM 2026 @ EMNLP 2026, Archival Long Paper | 3 (incl. [Meta Superintelligence Labs](https://arxiv.org/abs/2608.08775)) |
-| 2026 | [**How Consistent Are LLM Agents? Measuring Behavioral Reproducibility in Multi-Step Tool-Calling Pipelines**](https://arxiv.org/abs/2605.28840) — sole author | arXiv preprint | 4 (incl. [Alibaba](https://arxiv.org/abs/2608.09290)) |
-| 2022 | [**The Lick Observatory Supernova Search follow-up program: photometry data release of 70 SESNe**](https://doi.org/10.1093/mnras/stac723) — Zheng, Stahl, Filippenko, et al. | MNRAS, vol. 512 | 19 |
-| 2022 | **Embedding of Programming IDEs into Computer-Based Testing Software** — Yagubyan, Garcia | ACM SIGCSE '22 | — |
+| 2026 | [**The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation**](https://arxiv.org/abs/2606.13685) (sole author) | GroundLM 2026 @ EMNLP 2026, Archival Long Paper | 3 (incl. [Meta Superintelligence Labs](https://arxiv.org/abs/2608.08775)) |
+| 2026 | [**How Consistent Are LLM Agents? Measuring Behavioral Reproducibility in Multi-Step Tool-Calling Pipelines**](https://arxiv.org/abs/2605.28840) (sole author) | arXiv preprint | 4 (incl. [Alibaba](https://arxiv.org/abs/2608.09290)) |
+| 2022 | [**The Lick Observatory Supernova Search follow-up program: photometry data release of 70 SESNe**](https://doi.org/10.1093/mnras/stac723) (Zheng, Stahl, Filippenko, et al.) | MNRAS, vol. 512 | 19 |
+| 2022 | **Embedding of Programming IDEs into Computer-Based Testing Software** (Yagubyan, Garcia) | ACM SIGCSE '22 | 0 |
 
 **Peer review:** 193 verified reviews across nine Elsevier journals, including *Engineering Applications of Artificial Intelligence*, *Image and Vision Computing*, *Neural Networks*, and *Information Fusion*. See my [ORCID record](https://orcid.org/0009-0004-8213-2863).
 
