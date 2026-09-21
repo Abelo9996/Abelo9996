@@ -39,7 +39,7 @@ class AbelYagubyan:
             "accelerator": "Y Combinator, Spring 2026 batch",
             "papers": "4 published (GroundLM @ EMNLP 2026, MNRAS 2022, ACM SIGCSE 2022)",
             "citations": "27, incl. Meta Superintelligence Labs and Alibaba",
-            "peer_review": "193 reviews across 9 Elsevier AI journals",
+            "peer_review": "194 reviews across 9 Elsevier AI journals",
             "open_source": "Area Triager @ TruLens (Snowflake), contributor @ UK AISI inspect_evals",
             "industry": "Senior Data Scientist @ C3.ai, Co-founder @ FibonAI (Berkeley SkyDeck)",
         }
@@ -56,7 +56,7 @@ class AbelYagubyan:
 | 2022 | [**The Lick Observatory Supernova Search follow-up program: photometry data release of 70 SESNe**](https://doi.org/10.1093/mnras/stac723) (Zheng, Stahl, Filippenko, et al.) | MNRAS, vol. 512 | 19 |
 | 2022 | **Embedding of Programming IDEs into Computer-Based Testing Software** (Yagubyan, Garcia) | ACM SIGCSE '22 | 0 |
 
-**Peer review:** 193 verified reviews across nine Elsevier journals, including *Engineering Applications of Artificial Intelligence*, *Image and Vision Computing*, *Neural Networks*, and *Information Fusion*. See my [ORCID record](https://orcid.org/0009-0004-8213-2863).
+**Peer review:** 194 verified reviews across nine Elsevier journals, including *Engineering Applications of Artificial Intelligence*, *Image and Vision Computing*, *Neural Networks*, and *Information Fusion*. See my [ORCID record](https://orcid.org/0009-0004-8213-2863).
 
 ---
 
@@ -166,7 +166,7 @@ class AbelYagubyan:
       <sub>Sole author, Budapest</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🔍-193_Peer_Reviews-0085ff?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🔍-194_Peer_Reviews-0085ff?style=for-the-badge" />
       <br />
       <b>Elsevier Recognised Reviewer</b>
       <br />
