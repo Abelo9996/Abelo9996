@@ -14,6 +14,23 @@
 
 ---
 
+## 🛠️ Tools for Coding Agents
+
+Open-source tools I build for coding agents like Claude Code and Codex. Each one ships as a CLI plus an agent plugin or MCP server.
+
+| Tool | What it does |
+|---|---|
+| [**rerun-bench**](https://github.com/Abelo9996/rerun-bench) | Run the same task N times and see how consistent and how expensive your coding agent really is |
+| [**nerf-watch**](https://github.com/Abelo9996/nerf-watch) | Find out when your coding agent quietly got worse or more expensive, from your own session logs |
+| [**snap-back**](https://github.com/Abelo9996/snap-back) | Undo for any coding agent: one command rolls back what it did, without touching your git history |
+| [**agent-fence**](https://github.com/Abelo9996/agent-fence) | One permission policy file for every coding agent, with an audit log |
+| [**browser-port**](https://github.com/Abelo9996/browser-port) | Your agent ports open-source C/C++ apps and games to the browser. [Play the demos](https://abelo9996.github.io/browser-port/) |
+| [**web-revive**](https://github.com/Abelo9996/web-revive) | Your agent brings dead Flash and Java web games back to life. [Play the demos](https://abelo9996.github.io/web-revive/) |
+
+More: [open-agent-lab](https://github.com/Abelo9996/open-agent-lab) · [eval-builder](https://github.com/Abelo9996/eval-builder) · [paper-repro](https://github.com/Abelo9996/paper-repro) · [train-doctor](https://github.com/Abelo9996/train-doctor) · [notebook-to-pipeline](https://github.com/Abelo9996/notebook-to-pipeline) · [launch-day-kit](https://github.com/Abelo9996/launch-day-kit)
+
+---
+
 ## 🚀 About Me
 
 ```python
