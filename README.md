@@ -55,7 +55,7 @@ class AbelYagubyan:
         return {
             "accelerator": "Y Combinator, Spring 2026 batch",
             "papers": "4 published (GroundLM @ EMNLP 2026, MNRAS 2022, ACM SIGCSE 2022)",
-            "citations": "30, incl. Meta Superintelligence Labs and Alibaba",
+            "citations": "45, incl. Meta Superintelligence Labs and Alibaba",
             "peer_review": "196 reviews across 9 Elsevier AI journals",
             "open_source": "Area Triager @ TruLens (Snowflake), contributor @ UK AISI inspect_evals",
             "industry": "Senior Data Scientist @ C3.ai, Co-founder @ FibonAI (Berkeley SkyDeck)",
@@ -68,8 +68,8 @@ class AbelYagubyan:
 
 | Year | Paper | Venue | Cited by |
 |:---:|---|---|:---:|
-| 2026 | [**The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation**](https://arxiv.org/abs/2606.13685) (sole author) | GroundLM 2026 @ EMNLP 2026, Archival Long Paper | 6 (incl. [Meta Superintelligence Labs](https://arxiv.org/abs/2608.08775)) |
-| 2026 | [**How Consistent Are LLM Agents? Measuring Behavioral Reproducibility in Multi-Step Tool-Calling Pipelines**](https://arxiv.org/abs/2605.28840) (sole author) | arXiv preprint | 5 (incl. [Alibaba](https://arxiv.org/abs/2608.09290)) |
+| 2026 | [**The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation**](https://arxiv.org/abs/2606.13685) (sole author) | GroundLM 2026 @ EMNLP 2026, Archival Long Paper | 16 (incl. [Meta Superintelligence Labs](https://arxiv.org/abs/2608.08775)) |
+| 2026 | [**How Consistent Are LLM Agents? Measuring Behavioral Reproducibility in Multi-Step Tool-Calling Pipelines**](https://arxiv.org/abs/2605.28840) (sole author) | arXiv preprint | 10 (incl. [Alibaba](https://arxiv.org/abs/2608.09290)) |
 | 2022 | [**The Lick Observatory Supernova Search follow-up program: photometry data release of 70 SESNe**](https://doi.org/10.1093/mnras/stac723) (Zheng, Stahl, Filippenko, et al.) | MNRAS, vol. 512 | 19 |
 | 2022 | **Embedding of Programming IDEs into Computer-Based Testing Software** (Yagubyan, Garcia) | ACM SIGCSE '22 | 0 |
 
