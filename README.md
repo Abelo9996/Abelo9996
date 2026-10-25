@@ -91,38 +91,6 @@ class AbelYagubyan:
 
 ---
 
-## 🔬 Featured Projects
-
-<div align="center">
-
-### 🎓 [LearnOS](https://github.com/Abelo9996/LearnOS)
-> Open-source, agentic **AI university** with personalized roadmaps, real-time tutoring, and mastery-based grading  
-> `JavaScript` `Node.js` `Vite` `SQLite` `OpenRouter`
-
-### 🏗️ [Synthora](https://github.com/Abelo9996/Synthora)
-> AI development platform that builds **full web and mobile apps from natural language**: frontend, backend, database, workflows, deployment  
-> `TypeScript` `No-code`
-
-### 🧬 [EHRJEPA](https://github.com/Abelo9996/EHRJEPA)
-> JEPA-based **self-supervised** framework for predictive patient embeddings from structured EHR data  
-> `Python` `PyTorch` `Self-supervised learning`
-
-### 📊 [TableSage](https://github.com/Abelo9996/TableSage)
-> Turns any CSV into an instant EDA and lightweight-modeling workspace with **interpretable explanations**  
-> `Python` `Data + ML`
-
-### 🗞️ [ArxivScribe](https://github.com/Abelo9996/ArxivScribe)
-> Discord and Slack bot that monitors arXiv and posts **LLM-generated TLDRs** of the most relevant new ML papers daily  
-> `Python` `LLM` `Bots`
-
-### 🎤 [EasyVoiceClone](https://github.com/Abelo9996/EasyVoiceClone) · 🖼️ [Prompt2Deck](https://github.com/Abelo9996/Prompt2Deck)
-> Minimal voice-cloning pipeline from a few audio samples · Presentation decks (PPTX, Slides, PDF) from a topic or outline  
-> `JavaScript` `Python` `Voice AI` `Slide generation`
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
