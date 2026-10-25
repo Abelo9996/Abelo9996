@@ -14,20 +14,34 @@
 
 ---
 
-## 🛠️ Tools for Coding Agents
+## 🛠️ Building
 
-Open-source tools I build for coding agents like Claude Code and Codex. Each one ships as a CLI plus an agent plugin or MCP server.
+- **[LearnOS](https://github.com/Abelo9996/LearnOS)** [![GitHub stars](https://img.shields.io/github/stars/Abelo9996/LearnOS?style=flat&color=gold)](https://github.com/Abelo9996/LearnOS) - Self-hosted, open-source AI university: agents that build personalized roadmaps, tutor in real time, and grade toward mastery. One OpenRouter key, any model.
+- **[rerun-bench](https://github.com/Abelo9996/rerun-bench)** [![GitHub stars](https://img.shields.io/github/stars/Abelo9996/rerun-bench?style=flat&color=gold)](https://github.com/Abelo9996/rerun-bench) - Replay your own repo's past bug fixes on your coding agent, several times each, and see where it is reliable and where it is a coin flip.
+- **[nerf-watch](https://github.com/Abelo9996/nerf-watch)** [![GitHub stars](https://img.shields.io/github/stars/Abelo9996/nerf-watch?style=flat&color=gold)](https://github.com/Abelo9996/nerf-watch) - See what loads into every coding agent session before you type, cut what you never use, and catch silent regressions from your own logs.
+- **[snap-back](https://github.com/Abelo9996/snap-back)** [![GitHub stars](https://img.shields.io/github/stars/Abelo9996/snap-back?style=flat&color=gold)](https://github.com/Abelo9996/snap-back) - Undo what your coding agent did, including what built-in checkpoints miss: overwritten .env files, deleted untracked files, and shell side effects.
+- **[agent-fence](https://github.com/Abelo9996/agent-fence)** [![GitHub stars](https://img.shields.io/github/stars/Abelo9996/agent-fence?style=flat&color=gold)](https://github.com/Abelo9996/agent-fence) - One permission policy for every coding agent: replay your existing logs against it, then block force pushes, secret reads and rm -rf for real.
+- **[eval-builder](https://github.com/Abelo9996/eval-builder)** [![GitHub stars](https://img.shields.io/github/stars/Abelo9996/eval-builder?style=flat&color=gold)](https://github.com/Abelo9996/eval-builder) - Is your LLM judge a coin flip? Tests it for position bias, flip-flopping and padding bias with no labels, then turns your real logs into an eval suite.
+- **[paper-repro](https://github.com/Abelo9996/paper-repro)** [![GitHub stars](https://img.shields.io/github/stars/Abelo9996/paper-repro?style=flat&color=gold)](https://github.com/Abelo9996/paper-repro) - Point your agent at a paper. It reruns the claim and gives you a verdict with receipts, or tells you exactly why it couldn't.
+- **[train-doctor](https://github.com/Abelo9996/train-doctor)** [![GitHub stars](https://img.shields.io/github/stars/Abelo9996/train-doctor?style=flat&color=gold)](https://github.com/Abelo9996/train-doctor) - Finds the bottleneck in a slow training run, tries the fixes, and keeps only speedups it can prove with the loss unchanged.
+- **[browser-port](https://github.com/Abelo9996/browser-port)** [![GitHub stars](https://img.shields.io/github/stars/Abelo9996/browser-port?style=flat&color=gold)](https://github.com/Abelo9996/browser-port) - Turn an open-source C/C++ SDL game into a link anyone can play, in one command. [Play the demos](https://abelo9996.github.io/browser-port/)
+- **[web-revive](https://github.com/Abelo9996/web-revive)** [![GitHub stars](https://img.shields.io/github/stars/Abelo9996/web-revive?style=flat&color=gold)](https://github.com/Abelo9996/web-revive) - Bring a dead Flash or Java web game back from its old URL as a playable link. [Play the demos](https://abelo9996.github.io/web-revive/)
+- **[open-agent-lab](https://github.com/Abelo9996/open-agent-lab)** [![GitHub stars](https://img.shields.io/github/stars/Abelo9996/open-agent-lab?style=flat&color=gold)](https://github.com/Abelo9996/open-agent-lab) - Independent, reproducible evaluation of coding agents: same tasks, many runs, intervals shown.
 
-| Tool | What it does |
-|---|---|
-| [**rerun-bench**](https://github.com/Abelo9996/rerun-bench) | Run the same task N times and see how consistent and how expensive your coding agent really is |
-| [**nerf-watch**](https://github.com/Abelo9996/nerf-watch) | Find out when your coding agent quietly got worse or more expensive, from your own session logs |
-| [**snap-back**](https://github.com/Abelo9996/snap-back) | Undo for any coding agent: one command rolls back what it did, without touching your git history |
-| [**agent-fence**](https://github.com/Abelo9996/agent-fence) | One permission policy file for every coding agent, with an audit log |
-| [**browser-port**](https://github.com/Abelo9996/browser-port) | Your agent ports open-source C/C++ apps and games to the browser. [Play the demos](https://abelo9996.github.io/browser-port/) |
-| [**web-revive**](https://github.com/Abelo9996/web-revive) | Your agent brings dead Flash and Java web games back to life. [Play the demos](https://abelo9996.github.io/web-revive/) |
+More: [notebook-to-pipeline](https://github.com/Abelo9996/notebook-to-pipeline) · [launch-day-kit](https://github.com/Abelo9996/launch-day-kit) · [Synthora](https://github.com/Abelo9996/Synthora) · [TableSage](https://github.com/Abelo9996/TableSage)
 
-More: [open-agent-lab](https://github.com/Abelo9996/open-agent-lab) · [eval-builder](https://github.com/Abelo9996/eval-builder) · [paper-repro](https://github.com/Abelo9996/paper-repro) · [train-doctor](https://github.com/Abelo9996/train-doctor) · [notebook-to-pipeline](https://github.com/Abelo9996/notebook-to-pipeline) · [launch-day-kit](https://github.com/Abelo9996/launch-day-kit)
+---
+
+## 🧩 Contributing to
+
+- **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Android DEX static values through the JADX bridge, Mach-O segment and section name parsing, adb integer intent extras, and precise input errors for byte entropy windows, regex patterns, plist symlink loops, gRPC-web decoding and CDP targets.
+- **[Headroom](https://github.com/headroomlabs-ai/headroom)** [![GitHub stars](https://img.shields.io/github/stars/headroomlabs-ai/headroom?style=flat&color=gold)](https://github.com/headroomlabs-ai/headroom) - Keep indented lines intact in OpenAI whitespace normalization so cached prompts stay byte-identical.
+- **[llmfit](https://github.com/AlexsJones/llmfit)** [![GitHub stars](https://img.shields.io/github/stars/AlexsJones/llmfit?style=flat&color=gold)](https://github.com/AlexsJones/llmfit) - Keep the registry VRAM reading on Windows when PowerShell exits non-zero.
+- **[dbx](https://github.com/t8y2/dbx)** [![GitHub stars](https://img.shields.io/github/stars/t8y2/dbx?style=flat&color=gold)](https://github.com/t8y2/dbx) - SQL Server max string and rowversion mapping for cross-database transfer, correct sorting of WITH query results, and clause keyword ranking in SQL completion.
+- **[oMLX](https://github.com/jundot/omlx)** [![GitHub stars](https://img.shields.io/github/stars/jundot/omlx?style=flat&color=gold)](https://github.com/jundot/omlx) - Show remote rank output when a cluster rank exits, and answer DiffusionGemma's vision tower check in the oQ sanitize proxy.
+- **[CodexBar](https://github.com/steipete/CodexBar)** [![GitHub stars](https://img.shields.io/github/stars/steipete/CodexBar?style=flat&color=gold)](https://github.com/steipete/CodexBar) - Show the Cursor X Subscription weekly pool as the main meter. Credited in the 0.79.1 changelog.
+- **[TruLens (Snowflake)](https://github.com/truera/trulens)** [![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=flat&color=gold)](https://github.com/truera/trulens) - Area Triager, listed in [MAINTAINERS.md](https://github.com/truera/trulens/blob/main/MAINTAINERS.md). OpenTelemetry streaming metrics (TTFT, throughput), Jury reliability metadata, and correctness fixes across the database layer, OTEL instrumentation, providers and dashboard.
+- **[inspect_evals (UK AI Security Institute)](https://github.com/UKGovernmentBEIS/inspect_evals)** [![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_evals?style=flat&color=gold)](https://github.com/UKGovernmentBEIS/inspect_evals) - Migrated metric helpers to inspect_ai's aggregate() and unscored reasons to Score.reason, plus eval scoring and docs fixes. Credited in releases v0.20.0, v0.22.0 and v0.25.0.
 
 ---
 
@@ -74,16 +88,6 @@ class AbelYagubyan:
 | 2022 | **Embedding of Programming IDEs into Computer-Based Testing Software** (Yagubyan, Garcia) | ACM SIGCSE '22 | 0 |
 
 **Peer review:** 196 verified reviews across nine Elsevier journals, including *Engineering Applications of Artificial Intelligence*, *Image and Vision Computing*, *Neural Networks*, and *Information Fusion*. See my [ORCID record](https://orcid.org/0009-0004-8213-2863).
-
----
-
-## 🧩 Open Source
-
-| Project | Role | What |
-|---|---|---|
-| [**LearnOS**](https://github.com/Abelo9996/LearnOS) | Creator & Maintainer | Self-hosted, open-source "AI university": specialized agents (curriculum, Socratic tutor, assessment, research, analytics) that build personalized roadmaps, teach in real time, and grade toward mastery. One OpenRouter key, any model, no accounts. MIT. |
-| [**TruLens**](https://github.com/truera/trulens) (Snowflake) | Area Triager, listed in [MAINTAINERS.md](https://github.com/truera/trulens/blob/main/MAINTAINERS.md) | [13 merged PRs](https://github.com/truera/trulens/pulls?q=is%3Apr+author%3AAbelo9996+is%3Amerged): OpenTelemetry streaming metrics (TTFT, throughput) and correctness fixes across the database layer, evaluation API, providers, and dashboard. |
-| [**inspect_evals**](https://github.com/UKGovernmentBEIS/inspect_evals) (UK AI Security Institute) | Contributor | Migrated shared metric helpers to the framework's aggregation API; credited in [release v0.20.0](https://github.com/UKGovernmentBEIS/inspect_evals/releases/tag/v0.20.0). |
 
 ---
 
@@ -196,7 +200,7 @@ class AbelYagubyan:
       <br />
       <b>Area Triager</b>
       <br />
-      <sub>Snowflake, 13 merged PRs</sub>
+      <sub>Snowflake, 30 merged PRs</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🎓-Summa_Cum_Laude-4E2A84?style=for-the-badge" />
