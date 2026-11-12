@@ -46,6 +46,10 @@ More: [notebook-to-pipeline](https://github.com/Abelo9996/notebook-to-pipeline) 
 - **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat&color=gold)](https://github.com/langgenius/dify) - In review: route API-based extension requests through the SSRF proxy, and refresh the summary index when a duplicate document is re-uploaded.
 - **[Kilo Code](https://github.com/Kilo-Org/kilocode)** [![GitHub stars](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat&color=gold)](https://github.com/Kilo-Org/kilocode) - In review: keep grep working on lines over 64 KiB, and validate the whole file before kilo import writes anything.
 - **[oh-my-pi](https://github.com/can1357/oh-my-pi)** [![GitHub stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=flat&color=gold)](https://github.com/can1357/oh-my-pi) - In review: expand @path imports in APPEND_SYSTEM.md and SYSTEM.md.
+- **[Cline](https://github.com/cline/cline)** [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=flat&color=gold)](https://github.com/cline/cline) - In review: reject malformed `--timeout` and `--retries` values instead of silently truncating them, keep emoji intact when long Telegram replies are split, and render code blocks correctly in HTML session exports.
+- **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat&color=gold)](https://github.com/BerriAI/litellm) - In review: honor `HUGGINGFACE_API_BASE` for Hugging Face chat, and price Fireworks models with fractional sizes like `1p5b` in the right tier.
+- **[promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat&color=gold)](https://github.com/promptfoo/promptfoo) - In review: let max-only `trajectory:tool-used` counts pass so `max: 0` works, and send Hugging Face `use_cache` and `wait_for_model` as request options.
+- **[LLM (Simon Willison)](https://github.com/simonw/llm)** [![GitHub stars](https://img.shields.io/github/stars/simonw/llm?style=flat&color=gold)](https://github.com/simonw/llm) - In review: keep legacy tool result attachments readable in `llm logs` on SQLite 3.54, and report unknown embedding models instead of a missing default.
 - **[TruLens (Snowflake)](https://github.com/truera/trulens)** [![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=flat&color=gold)](https://github.com/truera/trulens) - Area Triager, listed in [MAINTAINERS.md](https://github.com/truera/trulens/blob/main/MAINTAINERS.md). OpenTelemetry streaming metrics (TTFT, throughput), Jury reliability metadata, and correctness fixes across the database layer, OTEL instrumentation, providers and dashboard.
 - **[inspect_evals (UK AI Security Institute)](https://github.com/UKGovernmentBEIS/inspect_evals)** [![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_evals?style=flat&color=gold)](https://github.com/UKGovernmentBEIS/inspect_evals) - Migrated metric helpers to inspect_ai's aggregate() and unscored reasons to Score.reason, plus eval scoring and docs fixes. Credited in releases v0.20.0, v0.22.0 and v0.25.0.
 
@@ -75,7 +79,7 @@ class AbelYagubyan:
         return {
             "accelerator": "Y Combinator, Spring 2026 batch",
             "papers": "4 published (GroundLM @ EMNLP 2026, MNRAS 2022, ACM SIGCSE 2022)",
-            "citations": "45, incl. Meta Superintelligence Labs and Alibaba",
+            "citations": "50+, incl. Meta Superintelligence Labs and Alibaba",
             "peer_review": "196 reviews across 9 Elsevier AI journals",
             "open_source": "Area Triager @ TruLens (Snowflake), contributor @ UK AISI inspect_evals",
             "industry": "Senior Data Scientist @ C3.ai, Co-founder @ FibonAI (Berkeley SkyDeck)",
@@ -88,8 +92,8 @@ class AbelYagubyan:
 
 | Year | Paper | Venue | Cited by |
 |:---:|---|---|:---:|
-| 2026 | [**The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation**](https://arxiv.org/abs/2606.13685) (sole author) | GroundLM 2026 @ EMNLP 2026, Archival Long Paper | 16 (incl. [Meta Superintelligence Labs](https://arxiv.org/abs/2608.08775)) |
-| 2026 | [**How Consistent Are LLM Agents? Measuring Behavioral Reproducibility in Multi-Step Tool-Calling Pipelines**](https://arxiv.org/abs/2605.28840) (sole author) | arXiv preprint | 10 (incl. [Alibaba](https://arxiv.org/abs/2608.09290)) |
+| 2026 | [**The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation**](https://arxiv.org/abs/2606.13685) (sole author) | GroundLM 2026 @ EMNLP 2026, Archival Long Paper | 18 (incl. [Meta Superintelligence Labs](https://arxiv.org/abs/2608.08775)) |
+| 2026 | [**How Consistent Are LLM Agents? Measuring Behavioral Reproducibility in Multi-Step Tool-Calling Pipelines**](https://arxiv.org/abs/2605.28840) (sole author) | arXiv preprint | 12 (incl. [Alibaba](https://arxiv.org/abs/2608.09290)) |
 | 2022 | [**The Lick Observatory Supernova Search follow-up program: photometry data release of 70 SESNe**](https://doi.org/10.1093/mnras/stac723) (Zheng, Stahl, Filippenko, et al.) | MNRAS, vol. 512 | 19 |
 | 2022 | **Embedding of Programming IDEs into Computer-Based Testing Software** (Yagubyan, Garcia) | ACM SIGCSE '22 | 0 |
 
